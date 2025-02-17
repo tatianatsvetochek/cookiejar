@@ -1,0 +1,64 @@
+body {
+    background-color: #FAF0E6; 
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    padding: 20px;
+    font-size: 24px; 
+    color: #3E2723;
+    font-family: 'Roboto';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin-top: 20px;
+    color: #3E2723;
+    font-family: 'Roboto', sans-serif;
+}
+.recipe {
+    flex: 1;
+}
+.recipe h2 {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+button {
+    background-color: #F3DDCC;
+    border: #F3DDCC;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.image {
+    width: 50%;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.header img {
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+
+
+
