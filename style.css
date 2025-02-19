@@ -1,6 +1,6 @@
 body {
     background-color: #FAF0E6; 
-    font-family: 'True North W01 Regular', sans-serif;
+    font-family: 'Acumin Variable Concept', sans-serif;
     font-size: 18px; 
     margin: 0;
     padding: 0;
@@ -15,7 +15,7 @@ body {
     padding: 20px;
     font-size: 40px; 
     color: #3E2723;
-    font-family: 'Michigan Custom', sans-serif;
+    font-family: 'Retro Morey', sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -27,11 +27,11 @@ body {
     width: 80%;
     margin-top: 20px;
     color: #3E2723;
-    font-family: 'True North W01 Regular', sans-serif;
+    font-family: 'Acumin Variable Concept', sans-serif;
 }
 .recipe {
     width: 50%;
-    font-family: 'True North W01 Regular', sans-serif;
+    font-family: 'Acumin Variable Concept', sans-serif;
 }
 h3 {
     color: #FAA0A0; 
