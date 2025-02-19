@@ -11,10 +11,10 @@ body {
 .header {
     display: flex;
     align-items: center;
-    width: 90%;
+    width: 100%;
     padding: 20px;
-    font-size: 40px; 
-    color: #3E2723;
+    font-size: 50px; 
+    color: #5F8575;
     font-family: 'Retro Morey', sans-serif;
     display: flex;
     align-items: center;
